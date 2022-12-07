@@ -43,12 +43,18 @@ header{
     font-size: 1.5rem;
 }
 
-form input{
+form input.d-block{
     width: 100%;
 }
 
 textarea{
     width: 100%;
+}
+
+.submit{
+    background-color: #1abc9c;
+    border: 1px solid white;
+    border-radius: 5px;
 }
 
 #portfolio img{
