@@ -17,32 +17,48 @@ header{
 }
 
 .portfolio-1{
-    background-color: var(--portfolio-1);
-    height: 100px;
+    background-color: var(--portfolio-1);    
 }
 .portfolio-2{
-    background-color: var(--portfolio-2);
-    height: 100px;
+    background-color: var(--portfolio-2);    
 }
 .portfolio-3{
-    background-color: var(--portfolio-3);
-    height: 100px;
+    background-color: var(--portfolio-3);    
 }
 .portfolio-4{
-    background-color: var(--portfolio-4);
-    height: 100px;
+    background-color: var(--portfolio-4);    
 }
 .portfolio-5{
-    background-color: var(--portfolio-5);
-    height: 100px;
+    background-color: var(--portfolio-5);    
 }
 .portfolio-6{
-    background-color: var(--portfolio-6);
-    height: 100px;
+    background-color: var(--portfolio-6);    
+}
+
+#start-bootstrap img{
+    width: 30%;
+}
+
+.bi-star-fill{
+    font-size: 1.5rem;
 }
 
 form input{
     width: 100%;
+}
+
+textarea{
+    width: 100%;
+}
+
+#portfolio img{
+    width: 50%;
+}
+
+.my-btn{
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 5px;
 }
 
 #social{
