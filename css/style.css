@@ -67,6 +67,10 @@ textarea{
     border-radius: 5px;
 }
 
+.bi-list{
+    color: var(--bs-gray-600);
+}
+
 #social{
     background-color: #3a546d;
 }
